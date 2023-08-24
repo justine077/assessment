@@ -9,7 +9,8 @@ Currently, two official plugins are available:
 
 Instructions how to run this code:
 
-1. Make a clone to this repository or download zip file in github repository.
+1. Make a clone to this repository or download zip file in github repository name: "assessment".
    2.Open the folder to your IDE and cd landing-page.
    3.Next step is to run Yarn if you are uisng Yarn or npm install if are using npm.
    4.last step run yarn dev for Yarn and npm run dev for npm.
+   5.Here's the deployment link: https://quick-landing-page.netlify.app/
